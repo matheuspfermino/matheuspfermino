@@ -3,11 +3,7 @@
 - 🎓 Cursando Ciência da Computação
 - 📫 matheuspfermino1@gmail.com
 
-
 <div>
-
-<img align="right" alt="Seiya-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/1eedfe201890bfd38854430582a6bc0e/tumblr_n3bjyfTale1r00ed5o2_250.gifv">
-
  ##
- 
-<div>
+
+<a href="https://www.instagram.com/nmediinaa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
