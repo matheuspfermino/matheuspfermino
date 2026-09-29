@@ -1,4 +1,6 @@
-### <whoami>👋
+##
+
+whoami
 
 - Computer Science Student
 - CyberSec Analyst
