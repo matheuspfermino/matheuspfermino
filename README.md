@@ -1,7 +1,8 @@
-### Bem-vindo👋
+### <whoami>👋
 
-- 🎓 Cursando Ciência da Computação
-- 📫 matheuspfermino1@gmail.com
+- Computer Science Student
+- CyberSec Analyst
+- Threat Hunting
 
 
 
