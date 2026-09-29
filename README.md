@@ -1,10 +1,15 @@
-##
+## Welcome
 
 whoami
 
 - Computer Science Student
 - CyberSec Analyst
+
+atributes
+
 - Threat Hunting
+- Detection Engineering
+- Cloud Security
 
 
 
