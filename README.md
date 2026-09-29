@@ -5,11 +5,12 @@ whoami
 - Computer Science Student
 - CyberSec Analyst
 
-atributes
+interests
 
 - Threat Hunting
 - Detection Engineering
 - Cloud Security
+- Endpoint Detection
 
 
 contact
